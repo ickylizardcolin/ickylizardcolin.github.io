@@ -2,7 +2,7 @@
 layout: default
 title: HOME
 header_type: hero
-subtitle: Starter pack
+subtitle: blog
 ---
 
-WIP
+WIP/coming soon
