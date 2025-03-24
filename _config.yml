@@ -26,7 +26,7 @@ og_image                :     #default[author.avatar (see below)] or [github-ava
 twitter_site            :     #Avoid @
 author:
   name                  :  Kevin Afryl   # Name Surname Company
-  avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
+  avatar                :  https://github.com/ickylizardcolin.png
   location              :  "Chicago, USA"   # New York, USA 
 #  links:                
 #    - url:  #A link or email: https://twitter.com/jack, mail@example.com
@@ -146,8 +146,6 @@ defaults:
       breadcrumb_list   :
         - label: Blog
           url: /blog/
-        - label: ":category"
-          url: "/categories#:category"
 
 # XX. Other settings - no need to modify
 # HTML Compression
