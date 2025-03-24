@@ -71,8 +71,6 @@ navbar:
   nav:
   - title   : Blog # Label
     url     : /blog/ # url	
-  - title   : Cheatsheets
-    url     : /cheatsheets
   - title : Tags
     url   : /tags
   - title : Categories
