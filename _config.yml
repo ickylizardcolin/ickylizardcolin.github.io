@@ -123,7 +123,20 @@ defaults:
     values:
       layout: "default"
       header_type: "base"
-      include_on_search   : false
+      include_on_search : false
+      include_on_feed   : false
+      show_date         : false
+      show_related      : false
+      show_bottomnavs   : true
+      show_sociallinks  : true
+      show_comments     : false
+      show_tags         : false
+      show_categories   : false
+      show_author       : false
+      show_breadcrumb   : true
+      breadcrumb_list   :
+        - label: Home
+          url: /
       cloudtag_url        : /tags #This is where the link on tags would redirect
       cloudcategory_url   : /categories #This is where the link on categories would redirect
   -
