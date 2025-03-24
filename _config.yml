@@ -24,7 +24,7 @@ timezone                :     America/Chicago
 og_image                :     #default[author.avatar (see below)] or [github-avatar]
 twitter_site            :     #Avoid @
 author:
-  name                  :  Colin   # Name Surname Company
+  name                  :  Kevin Afryl   # Name Surname Company
   avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
   location              :  "Chicago, USA"   # New York, USA 
 #  links:                
@@ -36,11 +36,6 @@ author:
 fa_version: #default ["6"] Use 6 or 5
 fa_kit_code: # Your FontAwesome kit code. If not provided a free hosted version (slower) will be loaded:  https://fontawesome.com/ 
 fa_v4_support: #Bool Add FontAwesome 4 support 
-# Web tracking - Google services https://analytics.google.com/analytics/web/
-# gtag_id is the preferred option, see https://developers.google.com/analytics/devguides/collection/gtagjs/migration?hl=en
-# analytics provided for backwards compatibility
-gtag_id                 :  
-analytics_id            :  
 
 # Search providers
 # Available free search engines:
@@ -53,10 +48,8 @@ search:
   provider              : fusejs #Select a provider for enable search: lunr, algolia, simplesearch, fusejs
   label                 :  #default ["Search"] Text on navbar when search is enabled 
   landing_page          :  #default ["/search"] Link on navbar 
-  lunr_maxwords         :  #DEPRECATED, use maxwords
   maxwords              :  #default [30] lunr simplesearch, fusejs only - May slow down your site build
   show_attrib           :   #default ["true"] Show attributions/logo on search engine
-  algolia_logo          :  true #Displays algolia logo. Should be set to true if you are on a community plan, otherwise false.  
 comments:
   provider:         #Enable comments via Disqus, giscus or Cactus.chat
   disqus_shortname: #Your site id : check your address https://{{ disqus.shortname }}.disqus.com/admin/
@@ -80,32 +73,18 @@ navbar:
     url     : /blog/ # url	
   - title   : Cheatsheets
     url     : /cheatsheets
-  - title   : Extras
-    child   :
-      - title : Tags
-        url   : /tags
-      - title : Categories
-        url   : /categories
-      - title : Archive
-        url   : /archive
-      - title : Current skin
-        url   : /current-skin
-  - title   : Docs
-    url     : https://dieghernan.github.io/chulapa/docs/01-install
-  - title   : Use this template
-    url     : https://github.com/dieghernan/chulapa-101/generate
-#  - title   : # Label submenu
-#    child:		
-#    - title: # Child label		
-#      url  : # child url	
-#    - title: # Child label		
-#      url  : # child url	
+  - title : Tags
+    url   : /tags
+  - title : Categories
+    url   : /categories
+  - title : Archive
+    url   : /archive
 #Social links to be placed on your site footer
 footer:
   links:
-    - label : Repo on Github # Label
+    - label : Github # Label
       icon  : fab fa-github # Fontawesome 5 icon
-      url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
+      url   : https://github.com/ickylizardcolin
     - label: "RSS"
       icon: "fa fa-rss"
       url:  "./atom.xml"
@@ -137,7 +116,7 @@ collections:
     output: true
     permalink: /cheatsheets/:name
 collections_dir     : 
-permalink           : /:year:month:day_:title/
+permalink           : /:month-:day-:year-:title/
 
 
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
@@ -171,20 +150,8 @@ defaults:
       breadcrumb_list   :
         - label: Blog
           url: /blog/
-  -
-    scope:
-      path: ""
-      type: "cheatsheet"
-    values:
-      header_type       : "hero"
-      show_bottomnavs   : true
-      show_sociallinks  : true
-      include_on_search : true
-      show_breadcrumb   : true
-      breadcrumb_list   :
-        - label: Cheatsheets
-          url: /cheatsheets
-
+        - label: ":category"
+          url: "/categories#:category"
 
 # XX. Other settings - no need to modify
 # HTML Compression
