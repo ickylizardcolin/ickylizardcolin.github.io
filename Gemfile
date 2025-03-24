@@ -9,7 +9,6 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-include-cache'
   gem 'jekyll-remote-theme'
-  gem 'jekyll-date-localization'
 end
 
 # Hard dependencies
