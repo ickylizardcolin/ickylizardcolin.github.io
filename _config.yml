@@ -9,7 +9,9 @@ remote_theme: dieghernan/chulapa
 # A. Site Settings /SEO options
 # Overall options for your site, would affect your site SEO
 # Default values are explained
-locale                  :     #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
+locale                  : en-US     #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
+lang: en-US
+prefer_datetime_locale: us
 title                   : ColinTheBeardie.club    #default["repository_name"]
 title_separator         :     #default [" | "]
 subtitle                : blog    #default [your-repository-tagline]  
