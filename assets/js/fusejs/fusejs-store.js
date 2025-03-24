@@ -28,7 +28,7 @@ var store = [{
         "subtitle": "",
         "excerpt": "<p>Pwning library cardsDisclaimer    Disclaimer: READ!    This page may contain hacking/cracking/pentesting -related content. Do not use any of it unconsentually or otherwise unlawfuly. We are not responsible for ANY damages, lawsuits, or criminal charges incurred from using information here.    TL;DR:  Hacking is badProcessWhyI lost my library card but had seomeone else’s that belonged to the same library.PhysicalI scanned the barcode using Binary Eye (fdroid) (best scanner.) It was a 16-character CODABAR barcode mesasuring just under 2in/5cm wide and 1/4in/1cm long.FormattingThe First and last bytes were “A”, with 14 ASCII-encoded numbers between them. I replicated the bar code, printed it off, and got into my account.</p>",
         "content": "Pwning library cards Disclaimer Disclaimer: READ! This page may contain hacking/cracking/pentesting -related content. Do not use any of it unconsentually or otherwise unlawfuly. We are not responsible for ANY damages,...",
-        "categories": [],
+        "categories": ["technical"],
         "date": "2025-03-24",
         "tags": ["hacking"],
         "url": "https://colinthebeardie.club/2025-03-24-pwning-library-cards/",
