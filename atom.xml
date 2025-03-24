@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="https://colinthebeardie.club/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="https://colinthebeardie.club/" rel="alternate" type="text/html" />
-	<updated>2025-03-24T16:21:21-05:00</updated>
+	<updated>2025-03-24T16:29:06-05:00</updated>
 	<id>https://colinthebeardie.club/atom.xml</id>
 	<title>ColinTheBeardie.club | blog</title>
 	<subtitle>blog</subtitle>
@@ -13,4 +13,134 @@
 	</author>
 	<rights>(c) 2025, Kevin Afryl</rights>
 	
-	<logo></logo></feed>
+	<logo></logo><entry>
+		<title type="html">Pwning library cards</title>
+		<link href="https://colinthebeardie.club/2025-03-24-pwning-library-cards/" rel="alternate" type="text/html" title="Pwning library cards"/>
+		<published>2025-03-24T00:00:00-05:00</published>
+		<updated>2025-03-24T00:00:00-05:00</updated>
+		<id>https://colinthebeardie.club/2025-03-24-pwning-library-cards/</id>
+		<content type="html" xml:base="https://colinthebeardie.club/2025-03-24-pwning-library-cards/">
+		
+  		
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;h1 id=&quot;pwning-library-cards&quot;&gt;Pwning library cards&lt;/h1&gt;
+&lt;h2 id=&quot;disclaimer&quot;&gt;Disclaimer&lt;/h2&gt;
+&lt;div class=&quot;alert alert-danger&quot;&gt;
+&lt;details&gt;
+  &lt;summary&gt;
+  Disclaimer: READ!
+  &lt;/summary&gt;
+  This page may contain hacking/cracking/pentesting -related content. Do not use any of it unconsentually or otherwise unlawfuly. We are not responsible for ANY damages, lawsuits, or criminal charges incurred from using information here.
+  &lt;hr /&gt;
+  TL;DR:&lt;br /&gt;
+  Hacking is bad
+&lt;/details&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+&lt;h3 id=&quot;why&quot;&gt;Why&lt;/h3&gt;
+&lt;p&gt;I lost my library card but had seomeone else’s that belonged to the same library.&lt;/p&gt;
+&lt;h3 id=&quot;physical&quot;&gt;Physical&lt;/h3&gt;
+&lt;p&gt;I scanned the barcode using &lt;a href=&quot;https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/&quot; title=&quot;Install me!&quot;&gt;Binary Eye (fdroid)&lt;/a&gt; (best scanner.) It was a 16-character CODABAR barcode mesasuring just under 2in/5cm wide and 1/4in/1cm long.&lt;/p&gt;
+&lt;h3 id=&quot;formatting&quot;&gt;Formatting&lt;/h3&gt;
+&lt;p&gt;The First and last bytes were “A”, with 14 ASCII-encoded numbers between them. I replicated the bar code, printed it off, and got into my account.&lt;/p&gt;
+
+		</content>
+		
+		<author>
+			<name>Kevin Afryl</name></author>
+		<summary type="html">&lt;h1 id=&quot;pwning-library-cards&quot;&gt;Pwning library cards&lt;/h1&gt;
+&lt;h2 id=&quot;disclaimer&quot;&gt;Disclaimer&lt;/h2&gt;
+&lt;div class=&quot;alert alert-danger&quot;&gt;
+&lt;details&gt;
+  &lt;summary&gt;
+  Disclaimer: READ!
+  &lt;/summary&gt;
+  This page may contain hacking/cracking/pentesting -related content. Do not use any of it unconsentually or otherwise unlawfuly. We are not responsible for ANY damages, lawsuits, or criminal charges incurred from using information here.
+  &lt;hr /&gt;
+  TL;DR:&lt;br /&gt;
+  Hacking is bad
+&lt;/details&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+&lt;h3 id=&quot;why&quot;&gt;Why&lt;/h3&gt;
+&lt;p&gt;I lost my library card but had seomeone else’s that belonged to the same library.&lt;/p&gt;
+&lt;h3 id=&quot;physical&quot;&gt;Physical&lt;/h3&gt;
+&lt;p&gt;I scanned the barcode using &lt;a href=&quot;https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/&quot; title=&quot;Install me!&quot;&gt;Binary Eye (fdroid)&lt;/a&gt; (best scanner.) It was a 16-character CODABAR barcode mesasuring just under 2in/5cm wide and 1/4in/1cm long.&lt;/p&gt;
+&lt;h3 id=&quot;formatting&quot;&gt;Formatting&lt;/h3&gt;
+&lt;p&gt;The First and last bytes were “A”, with 14 ASCII-encoded numbers between them. I replicated the bar code, printed it off, and got into my account.&lt;/p&gt;
+</summary>
+		<category term="posts"/>
+		<category term="hacking"/>
+	</entry><entry>
+		<title type="html">Best Media</title>
+		<link href="https://colinthebeardie.club/2025-03-24-best-media/" rel="alternate" type="text/html" title="Best Media"/>
+		<published>2025-03-24T00:00:00-05:00</published>
+		<updated>2025-03-24T00:00:00-05:00</updated>
+		<id>https://colinthebeardie.club/2025-03-24-best-media/</id>
+		<content type="html" xml:base="https://colinthebeardie.club/2025-03-24-best-media/">
+		
+  		
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;h1 id=&quot;best-media&quot;&gt;Best media&lt;/h1&gt;
+&lt;h2 id=&quot;animemanga&quot;&gt;Anime/Manga&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Dragon Ball (Z)&lt;/li&gt;
+  &lt;li&gt;One-Punch Man&lt;/li&gt;
+  &lt;li&gt;Attack on Titan&lt;/li&gt;
+  &lt;li&gt;Fullmetal Alchemist&lt;/li&gt;
+  &lt;li&gt;One Piece&lt;/li&gt;
+  &lt;li&gt;The Promised Neverland
+    &lt;h2 id=&quot;tv-series&quot;&gt;TV series&lt;/h2&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Gravity Falls&lt;/li&gt;
+  &lt;li&gt;Rick and Morty&lt;/li&gt;
+  &lt;li&gt;South Park&lt;/li&gt;
+  &lt;li&gt;Block 13 (subbed)&lt;/li&gt;
+  &lt;li&gt;Chimp Crazy&lt;/li&gt;
+  &lt;li&gt;Smiling Friends
+    &lt;h2 id=&quot;movies&quot;&gt;Movies&lt;/h2&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Star Wars&lt;/li&gt;
+  &lt;li&gt;Megaforce&lt;/li&gt;
+  &lt;li&gt;definitely not Minecraft Movie&lt;/li&gt;
+  &lt;li&gt;Interstellar&lt;/li&gt;
+  &lt;li&gt;Coneheads&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you do not like all of these, &lt;img src=&quot;https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlmb2NpbzIxbDNyYmJ1dHZpYTJ0aDI4bHVtd29sdjM4bmw0MzRoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PJeKg31621Wgw/giphy.gif&quot; alt=&quot;SHAME!!!!!!&quot; /&gt;&lt;/p&gt;
+
+		</content>
+		
+		<author>
+			<name>Kevin Afryl</name></author>
+		<summary type="html">&lt;h1 id=&quot;best-media&quot;&gt;Best media&lt;/h1&gt;
+&lt;h2 id=&quot;animemanga&quot;&gt;Anime/Manga&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Dragon Ball (Z)&lt;/li&gt;
+  &lt;li&gt;One-Punch Man&lt;/li&gt;
+  &lt;li&gt;Attack on Titan&lt;/li&gt;
+  &lt;li&gt;Fullmetal Alchemist&lt;/li&gt;
+  &lt;li&gt;One Piece&lt;/li&gt;
+  &lt;li&gt;The Promised Neverland
+    &lt;h2 id=&quot;tv-series&quot;&gt;TV series&lt;/h2&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Gravity Falls&lt;/li&gt;
+  &lt;li&gt;Rick and Morty&lt;/li&gt;
+  &lt;li&gt;South Park&lt;/li&gt;
+  &lt;li&gt;Block 13 (subbed)&lt;/li&gt;
+  &lt;li&gt;Chimp Crazy&lt;/li&gt;
+  &lt;li&gt;Smiling Friends
+    &lt;h2 id=&quot;movies&quot;&gt;Movies&lt;/h2&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Star Wars&lt;/li&gt;
+  &lt;li&gt;Megaforce&lt;/li&gt;
+  &lt;li&gt;definitely not Minecraft Movie&lt;/li&gt;
+  &lt;li&gt;Interstellar&lt;/li&gt;
+  &lt;li&gt;Coneheads&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+		<category term="posts"/>
+		<category term="anime"/><category term="media"/><category term="tv"/>
+	</entry></feed>

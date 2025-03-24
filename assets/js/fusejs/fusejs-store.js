@@ -13,4 +13,24 @@ var store = [{
         "tags": null,
         "url": "https://colinthebeardie.club/archive",
         "img": null
+      },{
+        "title": "Best Media",
+        "subtitle": "",
+        "excerpt": "<p>Best mediaAnime/Manga  Dragon Ball (Z)  One-Punch Man  Attack on Titan  Fullmetal Alchemist  One Piece  The Promised Neverland    TV series    Gravity Falls  Rick and Morty  South Park  Block 13 (subbed)  Chimp Crazy  Smiling Friends    Movies    Star Wars  Megaforce  definitely not Minecraft Movie  Interstellar  Coneheads</p>",
+        "content": "Best media Anime/Manga Dragon Ball (Z) One-Punch Man Attack on Titan Fullmetal Alchemist One Piece The Promised Neverland TV series Gravity Falls Rick and Morty South Park Block 13 (subbed)...",
+        "categories": [],
+        "date": "2025-03-24",
+        "tags": ["media","anime","tv"],
+        "url": "https://colinthebeardie.club/2025-03-24-best-media/",
+        "img": null
+      },{
+        "title": "Pwning library cards",
+        "subtitle": "",
+        "excerpt": "<p>Pwning library cardsDisclaimer    Disclaimer: READ!    This page may contain hacking/cracking/pentesting -related content. Do not use any of it unconsentually or otherwise unlawfuly. We are not responsible for ANY damages, lawsuits, or criminal charges incurred from using information here.    TL;DR:  Hacking is badProcessWhyI lost my library card but had seomeone else’s that belonged to the same library.PhysicalI scanned the barcode using Binary Eye (fdroid) (best scanner.) It was a 16-character CODABAR barcode mesasuring just under 2in/5cm wide and 1/4in/1cm long.FormattingThe First and last bytes were “A”, with 14 ASCII-encoded numbers between them. I replicated the bar code, printed it off, and got into my account.</p>",
+        "content": "Pwning library cards Disclaimer Disclaimer: READ! This page may contain hacking/cracking/pentesting -related content. Do not use any of it unconsentually or otherwise unlawfuly. We are not responsible for ANY damages,...",
+        "categories": [],
+        "date": "2025-03-24",
+        "tags": ["hacking"],
+        "url": "https://colinthebeardie.club/2025-03-24-pwning-library-cards/",
+        "img": null
       }]

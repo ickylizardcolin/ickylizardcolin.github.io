@@ -7,8 +7,8 @@
 		<description>blog</description>
 		<language>en-US</language>
 		<copyright>(c) 2025, Kevin Afryl</copyright>	
-		<pubDate>Mon, 24 Mar 2025 16:21:21 -0500</pubDate>
-		<lastBuildDate>Mon, 24 Mar 2025 16:21:21 -0500</lastBuildDate>
+		<pubDate>Mon, 24 Mar 2025 16:29:06 -0500</pubDate>
+		<lastBuildDate>Mon, 24 Mar 2025 16:29:06 -0500</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="https://colinthebeardie.club/rss.xml" rel="self" type="application/rss+xml" />
@@ -17,5 +17,79 @@
 			<url></url>
 			<link>https://colinthebeardie.club/</link>
 			<description>blog</description>
-		</image></channel>
+		</image><item>
+			<title>Pwning library cards</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div><h1 id="pwning-library-cards">Pwning library cards</h1>
+<h2 id="disclaimer">Disclaimer</h2>
+<div class="alert alert-danger">
+<details>
+  <summary>
+  Disclaimer: READ!
+  </summary>
+  This page may contain hacking/cracking/pentesting -related content. Do not use any of it unconsentually or otherwise unlawfuly. We are not responsible for ANY damages, lawsuits, or criminal charges incurred from using information here.
+  <hr />
+  TL;DR:<br />
+  Hacking is bad
+</details>
+</div>
+
+<h2 id="process">Process</h2>
+<h3 id="why">Why</h3>
+<p>I lost my library card but had seomeone else’s that belonged to the same library.</p>
+<h3 id="physical">Physical</h3>
+<p>I scanned the barcode using <a href="https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/" title="Install me!">Binary Eye (fdroid)</a> (best scanner.) It was a 16-character CODABAR barcode mesasuring just under 2in/5cm wide and 1/4in/1cm long.</p>
+<h3 id="formatting">Formatting</h3>
+<p>The First and last bytes were “A”, with 14 ASCII-encoded numbers between them. I replicated the bar code, printed it off, and got into my account.</p>
+</div>
+				]]>
+			</description>
+			<link>https://colinthebeardie.club/2025-03-24-pwning-library-cards/</link>
+			<category>posts</category>
+		    <category>hacking</category><guid isPermaLink="true">https://colinthebeardie.club/2025-03-24-pwning-library-cards/</guid>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 -0500</pubDate>
+		</item><item>
+			<title>Best Media</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div><h1 id="best-media">Best media</h1>
+<h2 id="animemanga">Anime/Manga</h2>
+<ul>
+  <li>Dragon Ball (Z)</li>
+  <li>One-Punch Man</li>
+  <li>Attack on Titan</li>
+  <li>Fullmetal Alchemist</li>
+  <li>One Piece</li>
+  <li>The Promised Neverland
+    <h2 id="tv-series">TV series</h2>
+  </li>
+  <li>Gravity Falls</li>
+  <li>Rick and Morty</li>
+  <li>South Park</li>
+  <li>Block 13 (subbed)</li>
+  <li>Chimp Crazy</li>
+  <li>Smiling Friends
+    <h2 id="movies">Movies</h2>
+  </li>
+  <li>Star Wars</li>
+  <li>Megaforce</li>
+  <li>definitely not Minecraft Movie</li>
+  <li>Interstellar</li>
+  <li>Coneheads</li>
+</ul>
+
+<p>If you do not like all of these, <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlmb2NpbzIxbDNyYmJ1dHZpYTJ0aDI4bHVtd29sdjM4bmw0MzRoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PJeKg31621Wgw/giphy.gif" alt="SHAME!!!!!!" /></p>
+</div>
+				]]>
+			</description>
+			<link>https://colinthebeardie.club/2025-03-24-best-media/</link>
+			<category>posts</category>
+		    <category>anime</category><category>media</category><category>tv</category><guid isPermaLink="true">https://colinthebeardie.club/2025-03-24-best-media/</guid>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 -0500</pubDate>
+		</item></channel>
 </rss>
