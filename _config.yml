@@ -11,8 +11,6 @@ remote_theme: dieghernan/chulapa
 # Default values are explained
 locale                  : en-US     #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
 lang: en-US
-prefer_datetime_locale: us
-date_format: "%m-%d-%Y"
 title                   : ColinTheBeardie.club    #default["repository_name"]
 title_separator         :     #default [" | "]
 subtitle                : blog    #default [your-repository-tagline]  
@@ -117,7 +115,7 @@ collections:
     output: true
     permalink: /cheatsheets/:name
 collections_dir     : 
-permalink           : /:month-:day-:year-:title/
+permalink           : /:year-:month-:day-:title/
 
 
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
