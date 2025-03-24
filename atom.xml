@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" >
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
-	<link href="https://ickylizardcolin.github.io/atom.xml" rel="self" type="application/atom+xml" />
-	<link href="https://ickylizardcolin.github.io/" rel="alternate" type="text/html" />
-	<updated>2025-03-24T13:45:50-05:00</updated>
-	<id>https://ickylizardcolin.github.io/atom.xml</id>
+	<link href="https://colinthebeardie.club/atom.xml" rel="self" type="application/atom+xml" />
+	<link href="https://colinthebeardie.club/" rel="alternate" type="text/html" />
+	<updated>2025-03-24T13:46:07-05:00</updated>
+	<id>https://colinthebeardie.club/atom.xml</id>
 	<title>ColinTheBeardie.club | blog</title>
 	<subtitle>blog</subtitle>
 	<author>
@@ -15,11 +15,11 @@
 	
 	<logo></logo><entry>
 		<title type="html">Current skin</title>
-		<link href="https://ickylizardcolin.github.io/20201231_current-skin/" rel="alternate" type="text/html" title="Current skin"/>
+		<link href="https://colinthebeardie.club/20201231_current-skin/" rel="alternate" type="text/html" title="Current skin"/>
 		<published>2020-12-31T00:00:00-06:00</published>
 		<updated>2021-02-03T00:00:00-06:00</updated>
-		<id>https://ickylizardcolin.github.io/20201231_current-skin/</id>
-		<content type="html" xml:base="https://ickylizardcolin.github.io/20201231_current-skin/">
+		<id>https://colinthebeardie.club/20201231_current-skin/</id>
+		<content type="html" xml:base="https://colinthebeardie.club/20201231_current-skin/">
 		
 		
 		&lt;h3&gt;Showing al the different Bootstrap components available&lt;/h3&gt;
@@ -33,7 +33,7 @@
 &lt;nav aria-label=&quot;Navigation&quot; class=&quot;container-lg chulapa-pagination  &quot;&gt;
   &lt;ul class=&quot;col-lg-8 offset-lg-2 pagination chulapa-pagination-round px-0 &quot;&gt;
     &lt;li class=&quot;page-item text-left mr-0 &quot;&gt;
-      &lt;a class=&quot;page-link border-0 px-4&quot; href=&quot;https://ickylizardcolin.github.io/20191127_acueduct-of-segovia/&quot; tabindex=&quot;-1&quot;&gt;
+      &lt;a class=&quot;page-link border-0 px-4&quot; href=&quot;https://colinthebeardie.club/20191127_acueduct-of-segovia/&quot; tabindex=&quot;-1&quot;&gt;
 	  &lt;i class=&quot;fa fa-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
 	  &lt;/a&gt;
     &lt;/li&gt;
@@ -63,7 +63,7 @@
   &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-lg-8 offset-lg-2 col&quot;&gt;
       &lt;i class=&quot;far fa-folder-open fa-xs&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
-      &lt;a href=&quot;https://ickylizardcolin.github.io/categories#skins&quot; class=&quot;badge chulapa-pill-bg-secondary p-category&quot; rel=&quot;tag&quot;&gt;skins&lt;/a&gt;
+      &lt;a href=&quot;https://colinthebeardie.club/categories#skins&quot; class=&quot;badge chulapa-pill-bg-secondary p-category&quot; rel=&quot;tag&quot;&gt;skins&lt;/a&gt;
       &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -72,17 +72,17 @@
   &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-lg-8 offset-lg-2 col&quot;&gt;
       &lt;i class=&quot;fas fa-tag mr-1 fa-xs&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
-      &lt;a href=&quot;https://ickylizardcolin.github.io/tags#skin&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;skin&lt;/a&gt;
+      &lt;a href=&quot;https://colinthebeardie.club/tags#skin&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;skin&lt;/a&gt;
       
-      &lt;a href=&quot;https://ickylizardcolin.github.io/tags#bootstrap&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;bootstrap&lt;/a&gt;
+      &lt;a href=&quot;https://colinthebeardie.club/tags#bootstrap&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;bootstrap&lt;/a&gt;
       
-      &lt;a href=&quot;https://ickylizardcolin.github.io/tags#current-theme&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;current-theme&lt;/a&gt;
+      &lt;a href=&quot;https://colinthebeardie.club/tags#current-theme&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;current-theme&lt;/a&gt;
       
-      &lt;a href=&quot;https://ickylizardcolin.github.io/tags#header-hero&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;header-hero&lt;/a&gt;
+      &lt;a href=&quot;https://colinthebeardie.club/tags#header-hero&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;header-hero&lt;/a&gt;
       
-      &lt;a href=&quot;https://ickylizardcolin.github.io/tags#image&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;image&lt;/a&gt;
+      &lt;a href=&quot;https://colinthebeardie.club/tags#image&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;image&lt;/a&gt;
       
-      &lt;a href=&quot;https://ickylizardcolin.github.io/tags#demo&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;demo&lt;/a&gt;
+      &lt;a href=&quot;https://colinthebeardie.club/tags#demo&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;demo&lt;/a&gt;
       &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -142,22 +142,22 @@
       &lt;div class=&quot;bs-component&quot;&gt;
         &lt;!-- Chulapa classic navbar expanding in lg or above --&gt;&lt;nav class=&quot;navbar navbar-expand-lg sticky-top navbar-chulapa border border-light my-2&quot;&gt;
           &lt;div class=&quot;container-fluid mx-md-2&quot;&gt;
-            &lt;a class=&quot;navbar-brand font-weight-bold&quot; href=&quot;https://ickylizardcolin.github.io/&quot;&gt;Default&lt;/a&gt;&lt;button class=&quot;navbar-toggler&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#navbarToggler&quot; aria-controls=&quot;navbarToggler&quot; aria-expanded=&quot;false&quot; aria-label=&quot;Toggle navigation&quot;&gt;
+            &lt;a class=&quot;navbar-brand font-weight-bold&quot; href=&quot;https://colinthebeardie.club/&quot;&gt;Default&lt;/a&gt;&lt;button class=&quot;navbar-toggler&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#navbarToggler&quot; aria-controls=&quot;navbarToggler&quot; aria-expanded=&quot;false&quot; aria-label=&quot;Toggle navigation&quot;&gt;
               &lt;span class=&quot;navbar-toggler-icon&quot;&gt;&lt;/span&gt;
             &lt;/button&gt;
             &lt;div class=&quot;collapse navbar-collapse&quot; id=&quot;navbarToggler&quot;&gt;
               &lt;ul class=&quot;navbar-nav ml-auto&quot;&gt;&lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link &quot; href=&quot;https://ickylizardcolin.github.io/blog/&quot;&gt;Blog&lt;/a&gt;
+                  &lt;a class=&quot;nav-link &quot; href=&quot;https://colinthebeardie.club/blog/&quot;&gt;Blog&lt;/a&gt;
                 &lt;/li&gt;&lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link &quot; href=&quot;https://ickylizardcolin.github.io/cheatsheets&quot;&gt;Cheatsheets&lt;/a&gt;
+                  &lt;a class=&quot;nav-link &quot; href=&quot;https://colinthebeardie.club/cheatsheets&quot;&gt;Cheatsheets&lt;/a&gt;
                 &lt;/li&gt;&lt;li class=&quot;nav-item dropdown&quot;&gt;&lt;a class=&quot;nav-link dropdown-toggle &quot; href=&quot;#&quot; id=&quot;Extras&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Extras&lt;/a&gt;
-                  &lt;div class=&quot;dropdown-menu dropdown-menu-right&quot; aria-labelledby=&quot;Extras&quot;&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;https://ickylizardcolin.github.io/tags&quot;&gt;Tags&lt;/a&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;https://ickylizardcolin.github.io/categories&quot;&gt;Categories&lt;/a&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;https://ickylizardcolin.github.io/archive&quot;&gt;Archive&lt;/a&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;https://ickylizardcolin.github.io/current-skin&quot;&gt;Current skin&lt;/a&gt;&lt;/div&gt;
+                  &lt;div class=&quot;dropdown-menu dropdown-menu-right&quot; aria-labelledby=&quot;Extras&quot;&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;https://colinthebeardie.club/tags&quot;&gt;Tags&lt;/a&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;https://colinthebeardie.club/categories&quot;&gt;Categories&lt;/a&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;https://colinthebeardie.club/archive&quot;&gt;Archive&lt;/a&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;https://colinthebeardie.club/current-skin&quot;&gt;Current skin&lt;/a&gt;&lt;/div&gt;
                 &lt;/li&gt;&lt;li class=&quot;nav-item&quot;&gt;
                   &lt;a class=&quot;nav-link &quot; href=&quot;https://dieghernan.github.io/chulapa/docs/01-install&quot;&gt;Docs&lt;/a&gt;
                 &lt;/li&gt;&lt;li class=&quot;nav-item&quot;&gt;
                   &lt;a class=&quot;nav-link &quot; href=&quot;https://github.com/dieghernan/chulapa-101/generate&quot;&gt;Use this template&lt;/a&gt;
                 &lt;/li&gt;&lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link &quot; href=&quot;https://ickylizardcolin.github.io/search&quot;&gt;
+                  &lt;a class=&quot;nav-link &quot; href=&quot;https://colinthebeardie.club/search&quot;&gt;
                     &lt;span class=&quot;d-md-none p-0 pr-1&quot;&gt;Search&lt;/span&gt;
                     &lt;i class=&quot;fa fa-search&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
                     &lt;span class=&quot;sr-only&quot;&gt;Search&lt;/span&gt;
@@ -1648,11 +1648,11 @@
 		<category term="bootstrap"/><category term="current-theme"/><category term="demo"/><category term="header-hero"/><category term="image"/><category term="skin"/>
 	</entry><entry>
 		<title type="html">The Acueduct of Segovia</title>
-		<link href="https://ickylizardcolin.github.io/20191127_acueduct-of-segovia/" rel="alternate" type="text/html" title="The Acueduct of Segovia"/>
+		<link href="https://colinthebeardie.club/20191127_acueduct-of-segovia/" rel="alternate" type="text/html" title="The Acueduct of Segovia"/>
 		<published>2019-11-27T00:00:00-06:00</published>
 		<updated>2019-11-27T00:00:00-06:00</updated>
-		<id>https://ickylizardcolin.github.io/20191127_acueduct-of-segovia/</id>
-		<content type="html" xml:base="https://ickylizardcolin.github.io/20191127_acueduct-of-segovia/">
+		<id>https://colinthebeardie.club/20191127_acueduct-of-segovia/</id>
+		<content type="html" xml:base="https://colinthebeardie.club/20191127_acueduct-of-segovia/">
 		
 		
 		&lt;h3&gt;20 centuries ago&lt;/h3&gt;
@@ -1673,11 +1673,11 @@
 		<category term="downtown"/><category term="image"/><category term="landscape"/><category term="project-links"/><category term="trips"/><category term="wikipedia"/>
 	</entry><entry>
 		<title type="html">A landing page</title>
-		<link href="https://ickylizardcolin.github.io/20190803_landing-page/" rel="alternate" type="text/html" title="A landing page"/>
+		<link href="https://colinthebeardie.club/20190803_landing-page/" rel="alternate" type="text/html" title="A landing page"/>
 		<published>2019-08-03T00:00:00-05:00</published>
 		<updated>2019-08-03T00:00:00-05:00</updated>
-		<id>https://ickylizardcolin.github.io/20190803_landing-page/</id>
-		<content type="html" xml:base="https://ickylizardcolin.github.io/20190803_landing-page/">
+		<id>https://colinthebeardie.club/20190803_landing-page/</id>
+		<content type="html" xml:base="https://colinthebeardie.club/20190803_landing-page/">
 		
 		
 		&lt;h3&gt;With image header&lt;/h3&gt;
@@ -1698,11 +1698,11 @@
 		<category term="demo"/><category term="example"/><category term="guest-author"/><category term="image"/><category term="layout"/>
 	</entry><entry>
 		<title type="html">Dean Village</title>
-		<link href="https://ickylizardcolin.github.io/20190502_dean-village/" rel="alternate" type="text/html" title="Dean Village"/>
+		<link href="https://colinthebeardie.club/20190502_dean-village/" rel="alternate" type="text/html" title="Dean Village"/>
 		<published>2019-05-02T00:00:00-05:00</published>
 		<updated>2019-05-02T00:00:00-05:00</updated>
-		<id>https://ickylizardcolin.github.io/20190502_dean-village/</id>
-		<content type="html" xml:base="https://ickylizardcolin.github.io/20190502_dean-village/">
+		<id>https://colinthebeardie.club/20190502_dean-village/</id>
+		<content type="html" xml:base="https://colinthebeardie.club/20190502_dean-village/">
 		
   		
 			&lt;img src=&#39;https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg/800px-Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg&#39; &gt;
@@ -1732,11 +1732,11 @@ to understand &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt
 		<category term="bootstrap"/><category term="demo"/><category term="downtown"/><category term="edinburgh"/><category term="image"/><category term="kramdown"/><category term="landscape"/><category term="trips"/><category term="wikipedia"/>
 	</entry><entry>
 		<title type="html">Urban art</title>
-		<link href="https://ickylizardcolin.github.io/20181109_urban_art/" rel="alternate" type="text/html" title="Urban art"/>
+		<link href="https://colinthebeardie.club/20181109_urban_art/" rel="alternate" type="text/html" title="Urban art"/>
 		<published>2018-11-09T00:00:00-06:00</published>
 		<updated>2018-11-09T00:00:00-06:00</updated>
-		<id>https://ickylizardcolin.github.io/20181109_urban_art/</id>
-		<content type="html" xml:base="https://ickylizardcolin.github.io/20181109_urban_art/">
+		<id>https://colinthebeardie.club/20181109_urban_art/</id>
+		<content type="html" xml:base="https://colinthebeardie.club/20181109_urban_art/">
 		
 		
 		&lt;h3&gt;Creativity is everywhere&lt;/h3&gt;
@@ -1761,11 +1761,11 @@ to understand &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt
 		<category term="downtown"/><category term="image"/><category term="street"/><category term="urban art"/>
 	</entry><entry>
 		<title type="html">Flake it till you make it</title>
-		<link href="https://ickylizardcolin.github.io/20150226_flake-it-till-you-make-it/" rel="alternate" type="text/html" title="Flake it till you make it"/>
+		<link href="https://colinthebeardie.club/20150226_flake-it-till-you-make-it/" rel="alternate" type="text/html" title="Flake it till you make it"/>
 		<published>2015-02-26T00:00:00-06:00</published>
 		<updated>2018-09-21T00:00:00-05:00</updated>
-		<id>https://ickylizardcolin.github.io/20150226_flake-it-till-you-make-it/</id>
-		<content type="html" xml:base="https://ickylizardcolin.github.io/20150226_flake-it-till-you-make-it/">
+		<id>https://colinthebeardie.club/20150226_flake-it-till-you-make-it/</id>
+		<content type="html" xml:base="https://colinthebeardie.club/20150226_flake-it-till-you-make-it/">
 		
 		
 		&lt;h3&gt;Excerpt from Soulshaping by Jeff Brown&lt;/h3&gt;
@@ -1790,11 +1790,11 @@ to understand &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt
 		<category term="manuscript"/><category term="random"/>
 	</entry><entry>
 		<title type="html">Test markdown</title>
-		<link href="https://ickylizardcolin.github.io/20150220_test-markdown/" rel="alternate" type="text/html" title="Test markdown"/>
+		<link href="https://colinthebeardie.club/20150220_test-markdown/" rel="alternate" type="text/html" title="Test markdown"/>
 		<published>2015-02-20T00:00:00-06:00</published>
 		<updated>2015-02-20T00:00:00-06:00</updated>
-		<id>https://ickylizardcolin.github.io/20150220_test-markdown/</id>
-		<content type="html" xml:base="https://ickylizardcolin.github.io/20150220_test-markdown/">
+		<id>https://colinthebeardie.club/20150220_test-markdown/</id>
+		<content type="html" xml:base="https://colinthebeardie.club/20150220_test-markdown/">
 		
 		
 		&lt;h3&gt;Each post also has a subtitle&lt;/h3&gt;
@@ -1871,11 +1871,11 @@ foo(3)
 		<category term="exciting-stuff"/><category term="markdown"/>
 	</entry><entry>
 		<title type="html">To be</title>
-		<link href="https://ickylizardcolin.github.io/20150213_hamlet-monologue/" rel="alternate" type="text/html" title="To be"/>
+		<link href="https://colinthebeardie.club/20150213_hamlet-monologue/" rel="alternate" type="text/html" title="To be"/>
 		<published>2015-02-13T00:00:00-06:00</published>
 		<updated>2015-02-13T00:00:00-06:00</updated>
-		<id>https://ickylizardcolin.github.io/20150213_hamlet-monologue/</id>
-		<content type="html" xml:base="https://ickylizardcolin.github.io/20150213_hamlet-monologue/">
+		<id>https://colinthebeardie.club/20150213_hamlet-monologue/</id>
+		<content type="html" xml:base="https://colinthebeardie.club/20150213_hamlet-monologue/">
 		
 		
 		&lt;h3&gt;… or not to be?&lt;/h3&gt;
@@ -1962,11 +1962,11 @@ Be all my sins remembered.&lt;/p&gt;
 		<category term="manuscript"/><category term="wikipedia"/>
 	</entry><entry>
 		<title type="html">Dear diary</title>
-		<link href="https://ickylizardcolin.github.io/20150127_dear-diary/" rel="alternate" type="text/html" title="Dear diary"/>
+		<link href="https://colinthebeardie.club/20150127_dear-diary/" rel="alternate" type="text/html" title="Dear diary"/>
 		<published>2015-01-27T00:00:00-06:00</published>
 		<updated>2015-01-27T00:00:00-06:00</updated>
-		<id>https://ickylizardcolin.github.io/20150127_dear-diary/</id>
-		<content type="html" xml:base="https://ickylizardcolin.github.io/20150127_dear-diary/">
+		<id>https://colinthebeardie.club/20150127_dear-diary/</id>
+		<content type="html" xml:base="https://colinthebeardie.club/20150127_dear-diary/">
 		
   		
 	&lt;p&gt;1 min.&lt;/p&gt;
@@ -1982,11 +1982,11 @@ Be all my sins remembered.&lt;/p&gt;
 		<category term="diary"/><category term="manuscript"/><category term="random"/><category term="school"/>
 	</entry><entry>
 		<title type="html">Soccer</title>
-		<link href="https://ickylizardcolin.github.io/20150119_soccer/" rel="alternate" type="text/html" title="Soccer"/>
+		<link href="https://colinthebeardie.club/20150119_soccer/" rel="alternate" type="text/html" title="Soccer"/>
 		<published>2015-01-19T00:00:00-06:00</published>
 		<updated>2015-01-19T00:00:00-06:00</updated>
-		<id>https://ickylizardcolin.github.io/20150119_soccer/</id>
-		<content type="html" xml:base="https://ickylizardcolin.github.io/20150119_soccer/">
+		<id>https://colinthebeardie.club/20150119_soccer/</id>
+		<content type="html" xml:base="https://colinthebeardie.club/20150119_soccer/">
 		
 		
 		&lt;h3&gt;Best sport ever!&lt;/h3&gt;
@@ -2009,11 +2009,11 @@ Be all my sins remembered.&lt;/p&gt;
 		<category term="exciting-stuff"/><category term="random"/><category term="wikipedia"/>
 	</entry><entry>
 		<title type="html">Pirates arrrr</title>
-		<link href="https://ickylizardcolin.github.io/20150115_pirates/" rel="alternate" type="text/html" title="Pirates arrrr"/>
+		<link href="https://colinthebeardie.club/20150115_pirates/" rel="alternate" type="text/html" title="Pirates arrrr"/>
 		<published>2015-01-15T00:00:00-06:00</published>
 		<updated>2015-01-15T00:00:00-06:00</updated>
-		<id>https://ickylizardcolin.github.io/20150115_pirates/</id>
-		<content type="html" xml:base="https://ickylizardcolin.github.io/20150115_pirates/">
+		<id>https://colinthebeardie.club/20150115_pirates/</id>
+		<content type="html" xml:base="https://colinthebeardie.club/20150115_pirates/">
 		
   		
 	&lt;p&gt;1 min.&lt;/p&gt;
@@ -2029,11 +2029,11 @@ Be all my sins remembered.&lt;/p&gt;
 		<category term="pirates"/><category term="random"/><category term="wikipedia"/>
 	</entry><entry>
 		<title type="html">First post!</title>
-		<link href="https://ickylizardcolin.github.io/20150104_first-post/" rel="alternate" type="text/html" title="First post!"/>
+		<link href="https://colinthebeardie.club/20150104_first-post/" rel="alternate" type="text/html" title="First post!"/>
 		<published>2015-01-04T00:00:00-06:00</published>
 		<updated>2015-01-04T00:00:00-06:00</updated>
-		<id>https://ickylizardcolin.github.io/20150104_first-post/</id>
-		<content type="html" xml:base="https://ickylizardcolin.github.io/20150104_first-post/">
+		<id>https://colinthebeardie.club/20150104_first-post/</id>
+		<content type="html" xml:base="https://colinthebeardie.club/20150104_first-post/">
 		
   		
 	&lt;p&gt;1 min.&lt;/p&gt;

@@ -11,7 +11,7 @@ var store = [{
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "https://ickylizardcolin.github.io/archive",
+        "url": "https://colinthebeardie.club/archive",
         "img": null
       },{
         "title": "First post!",
@@ -21,7 +21,7 @@ var store = [{
         "categories": [],
         "date": "2015-01-04",
         "tags": ["random","exciting-stuff"],
-        "url": "https://ickylizardcolin.github.io/20150104_first-post/",
+        "url": "https://colinthebeardie.club/20150104_first-post/",
         "img": null
       },{
         "title": "Pirates arrrr",
@@ -31,7 +31,7 @@ var store = [{
         "categories": [],
         "date": "2015-01-15",
         "tags": ["pirates","random","wikipedia"],
-        "url": "https://ickylizardcolin.github.io/20150115_pirates/",
+        "url": "https://colinthebeardie.club/20150115_pirates/",
         "img": null
       },{
         "title": "Soccer",
@@ -41,7 +41,7 @@ var store = [{
         "categories": [],
         "date": "2015-01-19",
         "tags": ["random","exciting-stuff","wikipedia"],
-        "url": "https://ickylizardcolin.github.io/20150119_soccer/",
+        "url": "https://colinthebeardie.club/20150119_soccer/",
         "img": null
       },{
         "title": "Dear diary",
@@ -51,7 +51,7 @@ var store = [{
         "categories": [],
         "date": "2015-01-27",
         "tags": ["random","diary","school","manuscript"],
-        "url": "https://ickylizardcolin.github.io/20150127_dear-diary/",
+        "url": "https://colinthebeardie.club/20150127_dear-diary/",
         "img": null
       },{
         "title": "To be",
@@ -61,7 +61,7 @@ var store = [{
         "categories": [],
         "date": "2015-02-13",
         "tags": ["wikipedia","manuscript"],
-        "url": "https://ickylizardcolin.github.io/20150213_hamlet-monologue/",
+        "url": "https://colinthebeardie.club/20150213_hamlet-monologue/",
         "img": null
       },{
         "title": "Test markdown",
@@ -71,7 +71,7 @@ var store = [{
         "categories": [],
         "date": "2015-02-20",
         "tags": ["markdown","exciting-stuff"],
-        "url": "https://ickylizardcolin.github.io/20150220_test-markdown/",
+        "url": "https://colinthebeardie.club/20150220_test-markdown/",
         "img": null
       },{
         "title": "Flake it till you make it",
@@ -81,7 +81,7 @@ var store = [{
         "categories": [],
         "date": "2015-02-26",
         "tags": ["random","manuscript"],
-        "url": "https://ickylizardcolin.github.io/20150226_flake-it-till-you-make-it/",
+        "url": "https://colinthebeardie.club/20150226_flake-it-till-you-make-it/",
         "img": null
       },{
         "title": "Urban art",
@@ -91,7 +91,7 @@ var store = [{
         "categories": ["picture"],
         "date": "2018-11-09",
         "tags": ["urban art","street","downtown","image"],
-        "url": "https://ickylizardcolin.github.io/20181109_urban_art/",
+        "url": "https://colinthebeardie.club/20181109_urban_art/",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Madrid_-_Graffiti_11.jpg/407px-Madrid_-_Graffiti_11.jpg"
       },{
         "title": "Dean Village",
@@ -101,7 +101,7 @@ var store = [{
         "categories": ["picture"],
         "date": "2019-05-02",
         "tags": ["landscape","trips","downtown","edinburgh","kramdown","bootstrap","wikipedia","demo","image"],
-        "url": "https://ickylizardcolin.github.io/20190502_dean-village/",
+        "url": "https://colinthebeardie.club/20190502_dean-village/",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg/800px-Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg"
       },{
         "title": "A landing page",
@@ -111,7 +111,7 @@ var store = [{
         "categories": ["landing-page"],
         "date": "2019-08-03",
         "tags": ["example","demo","layout","guest-author","image"],
-        "url": "https://ickylizardcolin.github.io/20190803_landing-page/",
+        "url": "https://colinthebeardie.club/20190803_landing-page/",
         "img": "https://dieghernan.github.io/chulapa/assets/img/site/transparent.png"
       },{
         "title": "The Acueduct of Segovia",
@@ -121,7 +121,7 @@ var store = [{
         "categories": ["picture"],
         "date": "2019-11-27",
         "tags": ["landscape","trips","downtown","project-links","wikipedia","image"],
-        "url": "https://ickylizardcolin.github.io/20191127_acueduct-of-segovia/",
+        "url": "https://colinthebeardie.club/20191127_acueduct-of-segovia/",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Acueducto_Segovia_noche.JPG/1024px-Acueducto_Segovia_noche.JPG"
       },{
         "title": "Current skin",
@@ -131,7 +131,7 @@ var store = [{
         "categories": ["skins"],
         "date": "2020-12-31",
         "tags": ["skin","bootstrap","current-theme","header-hero","image","demo"],
-        "url": "https://ickylizardcolin.github.io/20201231_current-skin/",
+        "url": "https://colinthebeardie.club/20201231_current-skin/",
         "img": "https://picsum.photos/id/1018/2000/2000"
       },{
         "title": "Markdown cheatsheet",
@@ -141,7 +141,7 @@ var store = [{
         "categories": ["tutorial"],
         "date": "2025-03-24",
         "tags": ["starter","syntax","markdown"],
-        "url": "https://ickylizardcolin.github.io/cheatsheets/01-markdown-cheat-sheet",
+        "url": "https://colinthebeardie.club/cheatsheets/01-markdown-cheat-sheet",
         "img": null
       },{
         "title": "kramdown cheatsheet",
@@ -151,6 +151,6 @@ var store = [{
         "categories": ["tutorial"],
         "date": "2025-03-24",
         "tags": ["starter","syntax","kramdown"],
-        "url": "https://ickylizardcolin.github.io/cheatsheets/02-kramdown-cheat-sheet",
+        "url": "https://colinthebeardie.club/cheatsheets/02-kramdown-cheat-sheet",
         "img": null
       }]
