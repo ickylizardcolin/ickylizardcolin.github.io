@@ -2,6 +2,7 @@
 layout: post
 title:  "Pwning library cards"
 tags: hacking
+categories: technical
 ---
 # Pwning library cards
 ## Disclaimer
