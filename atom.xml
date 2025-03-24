@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="https://colinthebeardie.club/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="https://colinthebeardie.club/" rel="alternate" type="text/html" />
-	<updated>2025-03-24T16:45:53-05:00</updated>
+	<updated>2025-03-24T17:01:17-05:00</updated>
 	<id>https://colinthebeardie.club/atom.xml</id>
 	<title>ColinTheBeardie.club | blog</title>
 	<subtitle>blog</subtitle>
@@ -13,7 +13,7 @@
 	</author>
 	<rights>(c) 2025, Kevin Afryl</rights>
 	
-	<logo></logo><entry>
+	<logo>https://github.com/ickylizardcolin.png</logo><entry>
 		<title type="html">Pwning library cards</title>
 		<link href="https://colinthebeardie.club/2025-03-24-pwning-library-cards/" rel="alternate" type="text/html" title="Pwning library cards"/>
 		<published>2025-03-24T00:00:00-05:00</published>
