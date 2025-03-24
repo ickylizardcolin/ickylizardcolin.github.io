@@ -2,6 +2,7 @@
 layout: post
 title:  "Best Media"
 tags: media anime tv
+categories: technical
 ---
 # Best media
 ## Anime/Manga
