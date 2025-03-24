@@ -18,7 +18,7 @@ var store = [{
         "subtitle": "",
         "excerpt": "<p>Best mediaAnime/Manga  Dragon Ball (Z)  One-Punch Man  Attack on Titan  Fullmetal Alchemist  One Piece  The Promised Neverland    TV series    Gravity Falls  Rick and Morty  South Park  Block 13 (subbed)  Chimp Crazy  Smiling Friends    Movies    Star Wars  Megaforce  definitely not Minecraft Movie  Interstellar  Coneheads</p>",
         "content": "Best media Anime/Manga Dragon Ball (Z) One-Punch Man Attack on Titan Fullmetal Alchemist One Piece The Promised Neverland TV series Gravity Falls Rick and Morty South Park Block 13 (subbed)...",
-        "categories": [],
+        "categories": ["technical"],
         "date": "2025-03-24",
         "tags": ["media","anime","tv"],
         "url": "https://colinthebeardie.club/2025-03-24-best-media/",
