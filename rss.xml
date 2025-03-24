@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
-		<title>Chulapa 101 | Chulapa Jekyll Theme starter pack</title>
+		<title>ColinTheBeardie.club | blog</title>
 		<generator>(c) Chulapa Jekyll Theme RSS generator</generator>
-		<link>https://dieghernan.github.io/</link>
-		<description>Chulapa Jekyll Theme starter pack</description>
+		<link>https://ickylizardcolin.github.io/</link>
+		<description>blog</description>
 		<language>en-US</language>
-		<copyright>(c) 2025, Your Name</copyright>	
-		<pubDate>Mon, 24 Mar 2025 18:40:28 +0000</pubDate>
-		<lastBuildDate>Mon, 24 Mar 2025 18:40:28 +0000</lastBuildDate>
+		<copyright>(c) 2025, Colin</copyright>	
+		<pubDate>Mon, 24 Mar 2025 13:45:50 -0500</pubDate>
+		<lastBuildDate>Mon, 24 Mar 2025 13:45:50 -0500</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
-		<atom:link href="https://dieghernan.github.io/rss.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://ickylizardcolin.github.io/rss.xml" rel="self" type="application/rss+xml" />
 		<image>
-			<title>Chulapa 101 | Chulapa Jekyll Theme starter pack</title>
+			<title>ColinTheBeardie.club | blog</title>
 			<url></url>
-			<link>https://dieghernan.github.io/</link>
-			<description>Chulapa Jekyll Theme starter pack</description>
+			<link>https://ickylizardcolin.github.io/</link>
+			<description>blog</description>
 		</image><item>
 			<title>Current skin</title>
 			<description>
@@ -28,7 +28,7 @@
 <nav aria-label="Navigation" class="container-lg chulapa-pagination  ">
   <ul class="col-lg-8 offset-lg-2 pagination chulapa-pagination-round px-0 ">
     <li class="page-item text-left mr-0 ">
-      <a class="page-link border-0 px-4" href="https://dieghernan.github.io/20191127_acueduct-of-segovia/" tabindex="-1">
+      <a class="page-link border-0 px-4" href="https://ickylizardcolin.github.io/20191127_acueduct-of-segovia/" tabindex="-1">
 	  <i class="fa fa-chevron-left" aria-hidden="true"></i><span class="sr-only">Previous</span>
 	  </a>
     </li>
@@ -58,7 +58,7 @@
   <div class="row">
     <div class="col-lg-8 offset-lg-2 col">
       <i class="far fa-folder-open fa-xs" aria-hidden="true"></i>
-      <a href="https://dieghernan.github.io/categories#skins" class="badge chulapa-pill-bg-secondary p-category" rel="tag">skins</a>
+      <a href="https://ickylizardcolin.github.io/categories#skins" class="badge chulapa-pill-bg-secondary p-category" rel="tag">skins</a>
       </div>
     </div>
 </div>
@@ -67,17 +67,17 @@
   <div class="row">
     <div class="col-lg-8 offset-lg-2 col">
       <i class="fas fa-tag mr-1 fa-xs" aria-hidden="true"></i>
-      <a href="https://dieghernan.github.io/tags#skin" class="badge chulapa-pill-bg-primary p-category" rel="tag">skin</a>
+      <a href="https://ickylizardcolin.github.io/tags#skin" class="badge chulapa-pill-bg-primary p-category" rel="tag">skin</a>
       
-      <a href="https://dieghernan.github.io/tags#bootstrap" class="badge chulapa-pill-bg-primary p-category" rel="tag">bootstrap</a>
+      <a href="https://ickylizardcolin.github.io/tags#bootstrap" class="badge chulapa-pill-bg-primary p-category" rel="tag">bootstrap</a>
       
-      <a href="https://dieghernan.github.io/tags#current-theme" class="badge chulapa-pill-bg-primary p-category" rel="tag">current-theme</a>
+      <a href="https://ickylizardcolin.github.io/tags#current-theme" class="badge chulapa-pill-bg-primary p-category" rel="tag">current-theme</a>
       
-      <a href="https://dieghernan.github.io/tags#header-hero" class="badge chulapa-pill-bg-primary p-category" rel="tag">header-hero</a>
+      <a href="https://ickylizardcolin.github.io/tags#header-hero" class="badge chulapa-pill-bg-primary p-category" rel="tag">header-hero</a>
       
-      <a href="https://dieghernan.github.io/tags#image" class="badge chulapa-pill-bg-primary p-category" rel="tag">image</a>
+      <a href="https://ickylizardcolin.github.io/tags#image" class="badge chulapa-pill-bg-primary p-category" rel="tag">image</a>
       
-      <a href="https://dieghernan.github.io/tags#demo" class="badge chulapa-pill-bg-primary p-category" rel="tag">demo</a>
+      <a href="https://ickylizardcolin.github.io/tags#demo" class="badge chulapa-pill-bg-primary p-category" rel="tag">demo</a>
       </div>
     </div>
 </div>
@@ -137,22 +137,22 @@
       <div class="bs-component">
         <!-- Chulapa classic navbar expanding in lg or above --><nav class="navbar navbar-expand-lg sticky-top navbar-chulapa border border-light my-2">
           <div class="container-fluid mx-md-2">
-            <a class="navbar-brand font-weight-bold" href="https://dieghernan.github.io/">Default</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+            <a class="navbar-brand font-weight-bold" href="https://ickylizardcolin.github.io/">Default</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarToggler">
               <ul class="navbar-nav ml-auto"><li class="nav-item">
-                  <a class="nav-link " href="https://dieghernan.github.io/blog/">Blog</a>
+                  <a class="nav-link " href="https://ickylizardcolin.github.io/blog/">Blog</a>
                 </li><li class="nav-item">
-                  <a class="nav-link " href="https://dieghernan.github.io/cheatsheets">Cheatsheets</a>
+                  <a class="nav-link " href="https://ickylizardcolin.github.io/cheatsheets">Cheatsheets</a>
                 </li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle " href="#" id="Extras" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Extras</a>
-                  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="Extras"><a class="dropdown-item " href="https://dieghernan.github.io/tags">Tags</a><a class="dropdown-item " href="https://dieghernan.github.io/categories">Categories</a><a class="dropdown-item " href="https://dieghernan.github.io/archive">Archive</a><a class="dropdown-item " href="https://dieghernan.github.io/current-skin">Current skin</a></div>
+                  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="Extras"><a class="dropdown-item " href="https://ickylizardcolin.github.io/tags">Tags</a><a class="dropdown-item " href="https://ickylizardcolin.github.io/categories">Categories</a><a class="dropdown-item " href="https://ickylizardcolin.github.io/archive">Archive</a><a class="dropdown-item " href="https://ickylizardcolin.github.io/current-skin">Current skin</a></div>
                 </li><li class="nav-item">
                   <a class="nav-link " href="https://dieghernan.github.io/chulapa/docs/01-install">Docs</a>
                 </li><li class="nav-item">
                   <a class="nav-link " href="https://github.com/dieghernan/chulapa-101/generate">Use this template</a>
                 </li><li class="nav-item">
-                  <a class="nav-link " href="https://dieghernan.github.io/search">
+                  <a class="nav-link " href="https://ickylizardcolin.github.io/search">
                     <span class="d-md-none p-0 pr-1">Search</span>
                     <i class="fa fa-search" aria-hidden="true"></i>
                     <span class="sr-only">Search</span>
@@ -1635,12 +1635,12 @@
 </div>
 				]]>
 			</description>
-			<link>https://dieghernan.github.io/20201231_current-skin/</link>
+			<link>https://ickylizardcolin.github.io/20201231_current-skin/</link>
 			<category>posts</category>
 		    <category>bootstrap</category><category>current-theme</category><category>demo</category><category>header-hero</category><category>image</category><category>skin</category><media:title type="html"><![CDATA[Current skin ]]></media:title>
       <media:content url="https://picsum.photos/id/1018/2000/2000" medium="image"/>
-      <media:thumbnail url="https://picsum.photos/id/1018/2000/2000" /><guid isPermaLink="true">https://dieghernan.github.io/20201231_current-skin/</guid>
-      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://picsum.photos/id/1018/2000/2000" /><guid isPermaLink="true">https://ickylizardcolin.github.io/20201231_current-skin/</guid>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 -0600</pubDate>
 		</item><item>
 			<title>The Acueduct of Segovia</title>
 			<description>
@@ -1651,12 +1651,12 @@
 </div>
 				]]>
 			</description>
-			<link>https://dieghernan.github.io/20191127_acueduct-of-segovia/</link>
+			<link>https://ickylizardcolin.github.io/20191127_acueduct-of-segovia/</link>
 			<category>posts</category>
 		    <category>downtown</category><category>image</category><category>landscape</category><category>project-links</category><category>trips</category><category>wikipedia</category><media:title type="html"><![CDATA[The Acueduct of Segovia ]]></media:title>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Acueducto_Segovia_noche.JPG/1024px-Acueducto_Segovia_noche.JPG" medium="image"/>
-      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Acueducto_Segovia_noche.JPG/1024px-Acueducto_Segovia_noche.JPG" /><guid isPermaLink="true">https://dieghernan.github.io/20191127_acueduct-of-segovia/</guid>
-      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Acueducto_Segovia_noche.JPG/1024px-Acueducto_Segovia_noche.JPG" /><guid isPermaLink="true">https://ickylizardcolin.github.io/20191127_acueduct-of-segovia/</guid>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 -0600</pubDate>
 		</item><item>
 			<title>A landing page</title>
 			<description>
@@ -1667,12 +1667,12 @@
 </div>
 				]]>
 			</description>
-			<link>https://dieghernan.github.io/20190803_landing-page/</link>
+			<link>https://ickylizardcolin.github.io/20190803_landing-page/</link>
 			<category>posts</category>
 		    <category>demo</category><category>example</category><category>guest-author</category><category>image</category><category>layout</category><media:title type="html"><![CDATA[A landing page ]]></media:title>
       <media:content url="https://dieghernan.github.io/chulapa/assets/img/site/transparent.png" medium="image"/>
-      <media:thumbnail url="https://dieghernan.github.io/chulapa/assets/img/site/transparent.png" /><guid isPermaLink="true">https://dieghernan.github.io/20190803_landing-page/</guid>
-      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://dieghernan.github.io/chulapa/assets/img/site/transparent.png" /><guid isPermaLink="true">https://ickylizardcolin.github.io/20190803_landing-page/</guid>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 -0500</pubDate>
 		</item><item>
 			<title>Dean Village</title>
 			<description>
@@ -1691,12 +1691,12 @@ to understand <code class="language-plaintext highlighter-rouge">.blockquote-foo
 </div>
 				]]>
 			</description>
-			<link>https://dieghernan.github.io/20190502_dean-village/</link>
+			<link>https://ickylizardcolin.github.io/20190502_dean-village/</link>
 			<category>posts</category>
 		    <category>bootstrap</category><category>demo</category><category>downtown</category><category>edinburgh</category><category>image</category><category>kramdown</category><category>landscape</category><category>trips</category><category>wikipedia</category><media:title type="html"><![CDATA[Dean Village ]]></media:title>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg/800px-Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg" medium="image"/>
-      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg/800px-Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg" /><guid isPermaLink="true">https://dieghernan.github.io/20190502_dean-village/</guid>
-      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg/800px-Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg" /><guid isPermaLink="true">https://ickylizardcolin.github.io/20190502_dean-village/</guid>
+      <pubDate>Thu, 02 May 2019 00:00:00 -0500</pubDate>
 		</item><item>
 			<title>Urban art</title>
 			<description>
@@ -1711,12 +1711,12 @@ to understand <code class="language-plaintext highlighter-rouge">.blockquote-foo
 </div>
 				]]>
 			</description>
-			<link>https://dieghernan.github.io/20181109_urban_art/</link>
+			<link>https://ickylizardcolin.github.io/20181109_urban_art/</link>
 			<category>posts</category>
 		    <category>downtown</category><category>image</category><category>street</category><category>urban art</category><media:title type="html"><![CDATA[Urban art ]]></media:title>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Madrid_-_Graffiti_11.jpg/407px-Madrid_-_Graffiti_11.jpg" medium="image"/>
-      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Madrid_-_Graffiti_11.jpg/407px-Madrid_-_Graffiti_11.jpg" /><guid isPermaLink="true">https://dieghernan.github.io/20181109_urban_art/</guid>
-      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Madrid_-_Graffiti_11.jpg/407px-Madrid_-_Graffiti_11.jpg" /><guid isPermaLink="true">https://ickylizardcolin.github.io/20181109_urban_art/</guid>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 -0600</pubDate>
 		</item><item>
 			<title>Flake it till you make it</title>
 			<description>
@@ -1733,10 +1733,10 @@ to understand <code class="language-plaintext highlighter-rouge">.blockquote-foo
 </div>
 				]]>
 			</description>
-			<link>https://dieghernan.github.io/20150226_flake-it-till-you-make-it/</link>
+			<link>https://ickylizardcolin.github.io/20150226_flake-it-till-you-make-it/</link>
 			<category>posts</category>
-		    <category>manuscript</category><category>random</category><guid isPermaLink="true">https://dieghernan.github.io/20150226_flake-it-till-you-make-it/</guid>
-      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+		    <category>manuscript</category><category>random</category><guid isPermaLink="true">https://ickylizardcolin.github.io/20150226_flake-it-till-you-make-it/</guid>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 -0600</pubDate>
 		</item><item>
 			<title>Test markdown</title>
 			<description>
@@ -1805,10 +1805,10 @@ foo(3)
 </div>
 				]]>
 			</description>
-			<link>https://dieghernan.github.io/20150220_test-markdown/</link>
+			<link>https://ickylizardcolin.github.io/20150220_test-markdown/</link>
 			<category>posts</category>
-		    <category>exciting-stuff</category><category>markdown</category><guid isPermaLink="true">https://dieghernan.github.io/20150220_test-markdown/</guid>
-      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+		    <category>exciting-stuff</category><category>markdown</category><guid isPermaLink="true">https://ickylizardcolin.github.io/20150220_test-markdown/</guid>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 -0600</pubDate>
 		</item><item>
 			<title>To be</title>
 			<description>
@@ -1853,10 +1853,10 @@ Be all my sins remembered.</p>
 </div>
 				]]>
 			</description>
-			<link>https://dieghernan.github.io/20150213_hamlet-monologue/</link>
+			<link>https://ickylizardcolin.github.io/20150213_hamlet-monologue/</link>
 			<category>posts</category>
-		    <category>manuscript</category><category>wikipedia</category><guid isPermaLink="true">https://dieghernan.github.io/20150213_hamlet-monologue/</guid>
-      <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
+		    <category>manuscript</category><category>wikipedia</category><guid isPermaLink="true">https://ickylizardcolin.github.io/20150213_hamlet-monologue/</guid>
+      <pubDate>Fri, 13 Feb 2015 00:00:00 -0600</pubDate>
 		</item><item>
 			<title>Dear diary</title>
 			<description>
@@ -1867,10 +1867,10 @@ Be all my sins remembered.</p>
 </div>
 				]]>
 			</description>
-			<link>https://dieghernan.github.io/20150127_dear-diary/</link>
+			<link>https://ickylizardcolin.github.io/20150127_dear-diary/</link>
 			<category>posts</category>
-		    <category>diary</category><category>manuscript</category><category>random</category><category>school</category><guid isPermaLink="true">https://dieghernan.github.io/20150127_dear-diary/</guid>
-      <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
+		    <category>diary</category><category>manuscript</category><category>random</category><category>school</category><guid isPermaLink="true">https://ickylizardcolin.github.io/20150127_dear-diary/</guid>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 -0600</pubDate>
 		</item><item>
 			<title>Soccer</title>
 			<description>
@@ -1885,10 +1885,10 @@ Be all my sins remembered.</p>
 </div>
 				]]>
 			</description>
-			<link>https://dieghernan.github.io/20150119_soccer/</link>
+			<link>https://ickylizardcolin.github.io/20150119_soccer/</link>
 			<category>posts</category>
-		    <category>exciting-stuff</category><category>random</category><category>wikipedia</category><guid isPermaLink="true">https://dieghernan.github.io/20150119_soccer/</guid>
-      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+		    <category>exciting-stuff</category><category>random</category><category>wikipedia</category><guid isPermaLink="true">https://ickylizardcolin.github.io/20150119_soccer/</guid>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 -0600</pubDate>
 		</item><item>
 			<title>Pirates arrrr</title>
 			<description>
@@ -1899,10 +1899,10 @@ Be all my sins remembered.</p>
 </div>
 				]]>
 			</description>
-			<link>https://dieghernan.github.io/20150115_pirates/</link>
+			<link>https://ickylizardcolin.github.io/20150115_pirates/</link>
 			<category>posts</category>
-		    <category>pirates</category><category>random</category><category>wikipedia</category><guid isPermaLink="true">https://dieghernan.github.io/20150115_pirates/</guid>
-      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+		    <category>pirates</category><category>random</category><category>wikipedia</category><guid isPermaLink="true">https://ickylizardcolin.github.io/20150115_pirates/</guid>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 -0600</pubDate>
 		</item><item>
 			<title>First post!</title>
 			<description>
@@ -1913,9 +1913,9 @@ Be all my sins remembered.</p>
 </div>
 				]]>
 			</description>
-			<link>https://dieghernan.github.io/20150104_first-post/</link>
+			<link>https://ickylizardcolin.github.io/20150104_first-post/</link>
 			<category>posts</category>
-		    <category>exciting-stuff</category><category>random</category><guid isPermaLink="true">https://dieghernan.github.io/20150104_first-post/</guid>
-      <pubDate>Sun, 04 Jan 2015 00:00:00 +0000</pubDate>
+		    <category>exciting-stuff</category><category>random</category><guid isPermaLink="true">https://ickylizardcolin.github.io/20150104_first-post/</guid>
+      <pubDate>Sun, 04 Jan 2015 00:00:00 -0600</pubDate>
 		</item></channel>
 </rss>
