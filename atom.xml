@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="https://colinthebeardie.club/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="https://colinthebeardie.club/" rel="alternate" type="text/html" />
-	<updated>2025-03-25T15:46:43-05:00</updated>
+	<updated>2025-03-25T16:18:48-05:00</updated>
 	<id>https://colinthebeardie.club/atom.xml</id>
 	<title>ColinTheBeardie.club | blog</title>
 	<subtitle>blog</subtitle>
@@ -110,7 +110,10 @@
   &lt;li&gt;Megaforce&lt;/li&gt;
   &lt;li&gt;definitely not Minecraft Movie&lt;/li&gt;
   &lt;li&gt;Interstellar&lt;/li&gt;
-  &lt;li&gt;Coneheads&lt;/li&gt;
+  &lt;li&gt;Coneheads
+    &lt;h2 id=&quot;youtube&quot;&gt;Youtube&lt;/h2&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Murder Drones&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;If you do not like all of these, &lt;img src=&quot;https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlmb2NpbzIxbDNyYmJ1dHZpYTJ0aDI4bHVtd29sdjM4bmw0MzRoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PJeKg31621Wgw/giphy.gif&quot; alt=&quot;SHAME!!!!!!&quot; /&gt;&lt;/p&gt;
@@ -143,7 +146,10 @@
   &lt;li&gt;Megaforce&lt;/li&gt;
   &lt;li&gt;definitely not Minecraft Movie&lt;/li&gt;
   &lt;li&gt;Interstellar&lt;/li&gt;
-  &lt;li&gt;Coneheads&lt;/li&gt;
+  &lt;li&gt;Coneheads
+    &lt;h2 id=&quot;youtube&quot;&gt;Youtube&lt;/h2&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Murder Drones&lt;/li&gt;
 &lt;/ul&gt;
 </summary>
 		<category term="posts"/>
