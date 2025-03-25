@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Best Media"
+subtitle: "and hopefully yours too"
 tags: media anime tv
 categories: technical
 ---
@@ -12,6 +13,7 @@ categories: technical
 * Fullmetal Alchemist
 * One Piece
 * The Promised Neverland
+* Jujitsu Kaisen
 ## TV series
 * Gravity Falls
 * Rick and Morty
