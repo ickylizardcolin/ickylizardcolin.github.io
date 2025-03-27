@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="https://colinthebeardie.club/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="https://colinthebeardie.club/" rel="alternate" type="text/html" />
-	<updated>2025-03-27T09:30:37-05:00</updated>
+	<updated>2025-03-27T10:27:29-05:00</updated>
 	<id>https://colinthebeardie.club/atom.xml</id>
 	<title>ColinTheBeardie.club | blog</title>
 	<subtitle>blog</subtitle>
@@ -14,6 +14,31 @@
 	<rights>(c) 2025, Kevin Afryl</rights>
 	
 	<logo>https://github.com/ickylizardcolin.png</logo><entry>
+		<title type="html">Practical Web-based Tools</title>
+		<link href="https://colinthebeardie.club/2025-03-27-practical-web-based-tools/" rel="alternate" type="text/html" title="Practical Web-based Tools"/>
+		<published>2025-03-27T00:00:00-05:00</published>
+		<updated>2025-03-27T00:00:00-05:00</updated>
+		<id>https://colinthebeardie.club/2025-03-27-practical-web-based-tools/</id>
+		<content type="html" xml:base="https://colinthebeardie.club/2025-03-27-practical-web-based-tools/">
+		
+		
+		&lt;h3&gt;good for chromebooks&lt;/h3&gt;
+		
+  		
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;h1 id=&quot;wip-will-add-more&quot;&gt;WIP! will add more&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://zb3.me/tools.html&quot;&gt;zb3 tools&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		
+		<author>
+			<name>Kevin Afryl</name></author>
+		<summary type="html">&lt;h1 id=&quot;wip-will-add-more&quot;&gt;WIP! will add more&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://zb3.me/tools.html&quot;&gt;zb3 tools&lt;/a&gt;&lt;/p&gt;
+</summary>
+		<category term="posts"/>
+		<category term="school"/>
+	</entry><entry>
 		<title type="html">Pwning library cards</title>
 		<link href="https://colinthebeardie.club/2025-03-24-pwning-library-cards/" rel="alternate" type="text/html" title="Pwning library cards"/>
 		<published>2025-03-24T00:00:00-05:00</published>

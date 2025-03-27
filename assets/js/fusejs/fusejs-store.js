@@ -33,4 +33,14 @@ var store = [{
         "tags": ["hacking"],
         "url": "https://colinthebeardie.club/2025-03-24-pwning-library-cards/",
         "img": null
+      },{
+        "title": "Practical Web-based Tools",
+        "subtitle": "good for chromebooks",
+        "excerpt": "<p>WIP! will add morezb3 tools</p>",
+        "content": "WIP! will add more  zb3 tools",
+        "categories": ["technical"],
+        "date": "2025-03-27",
+        "tags": ["school"],
+        "url": "https://colinthebeardie.club/2025-03-27-practical-web-based-tools/",
+        "img": null
       }]
