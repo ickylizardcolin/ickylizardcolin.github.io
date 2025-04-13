@@ -43,4 +43,14 @@ var store = [{
         "tags": ["school"],
         "url": "https://colinthebeardie.club/2025-03-27-practical-web-based-tools/",
         "img": null
+      },{
+        "title": "Piracy",
+        "subtitle": "aarrgh",
+        "excerpt": "<p>PiracyDISCLAIMER:I do not support, condone, or use any of these services. Piracy is illegal and should not be done. If you do not want to deal with streaming services, buy DVDs or BluRays.</p>",
+        "content": "Piracy DISCLAIMER: I do not support, condone, or use any of these services. Piracy is illegal and should not be done. If you do not want to deal with streaming...",
+        "categories": ["entertainment"],
+        "date": "2025-04-13",
+        "tags": ["media","anime","tv"],
+        "url": "https://colinthebeardie.club/2025-04-13-piracy/",
+        "img": null
       }]

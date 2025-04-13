@@ -7,8 +7,8 @@
 		<description>blog</description>
 		<language>en-US</language>
 		<copyright>(c) 2025, Kevin Afryl</copyright>	
-		<pubDate>Thu, 27 Mar 2025 10:27:29 -0500</pubDate>
-		<lastBuildDate>Thu, 27 Mar 2025 10:27:29 -0500</lastBuildDate>
+		<pubDate>Sun, 13 Apr 2025 14:56:37 -0500</pubDate>
+		<lastBuildDate>Sun, 13 Apr 2025 14:56:37 -0500</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="https://colinthebeardie.club/rss.xml" rel="self" type="application/rss+xml" />
@@ -18,6 +18,27 @@
 			<link>https://colinthebeardie.club/</link>
 			<description>blog</description>
 		</image><item>
+			<title>Piracy</title>
+			<description>
+				<![CDATA[	
+ 				<h3>aarrgh</h3>
+    		<p>1 min.</p>
+				<div><h1 id="piracy">Piracy</h1>
+<h3 id="disclaimer">DISCLAIMER:</h3>
+<p>I do not support, condone, or use any of these services. Piracy is illegal and should not be done. If you do not want to deal with streaming services, buy DVDs or BluRays.</p>
+
+<h2 id="animecartoon">Anime/Cartoon</h2>
+<ul>
+  <li><a href="https://wco.tv:443/">https://wco.tv:443/</a></li>
+</ul>
+</div>
+				]]>
+			</description>
+			<link>https://colinthebeardie.club/2025-04-13-piracy/</link>
+			<category>posts</category>
+		    <category>anime</category><category>media</category><category>tv</category><guid isPermaLink="true">https://colinthebeardie.club/2025-04-13-piracy/</guid>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 -0500</pubDate>
+		</item><item>
 			<title>Practical Web-based Tools</title>
 			<description>
 				<![CDATA[	
