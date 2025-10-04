@@ -11,7 +11,7 @@ var store = [{
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "https://colinthebeardie.club/archive",
+        "url": "https://blog.kevin-afryl.com/archive",
         "img": null
       },{
         "title": "Best Media",
@@ -21,7 +21,7 @@ var store = [{
         "categories": ["technical"],
         "date": "2025-03-24",
         "tags": ["media","anime","tv"],
-        "url": "https://colinthebeardie.club/2025-03-24-best-media/",
+        "url": "https://blog.kevin-afryl.com/2025-03-24-best-media/",
         "img": null
       },{
         "title": "Pwning library cards",
@@ -31,7 +31,7 @@ var store = [{
         "categories": ["technical"],
         "date": "2025-03-24",
         "tags": ["hacking"],
-        "url": "https://colinthebeardie.club/2025-03-24-pwning-library-cards/",
+        "url": "https://blog.kevin-afryl.com/2025-03-24-pwning-library-cards/",
         "img": null
       },{
         "title": "Practical Web-based Tools",
@@ -41,7 +41,7 @@ var store = [{
         "categories": ["technical"],
         "date": "2025-03-27",
         "tags": ["school"],
-        "url": "https://colinthebeardie.club/2025-03-27-practical-web-based-tools/",
+        "url": "https://blog.kevin-afryl.com/2025-03-27-practical-web-based-tools/",
         "img": null
       },{
         "title": "Piracy",
@@ -51,6 +51,6 @@ var store = [{
         "categories": ["entertainment"],
         "date": "2025-04-13",
         "tags": ["media","anime","tv"],
-        "url": "https://colinthebeardie.club/2025-04-13-piracy/",
+        "url": "https://blog.kevin-afryl.com/2025-04-13-piracy/",
         "img": null
       }]

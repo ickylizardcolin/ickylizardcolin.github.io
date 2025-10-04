@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
-		<title>ColinTheBeardie.club | blog</title>
+		<title>Kevin Afryl\&apos;s blog | blog</title>
 		<generator>(c) Chulapa Jekyll Theme RSS generator</generator>
-		<link>https://colinthebeardie.club/</link>
+		<link>https://blog.kevin-afryl.com/</link>
 		<description>blog</description>
 		<language>en-US</language>
 		<copyright>(c) 2025, Kevin Afryl</copyright>	
-		<pubDate>Sat, 04 Oct 2025 15:00:38 -0500</pubDate>
-		<lastBuildDate>Sat, 04 Oct 2025 15:00:38 -0500</lastBuildDate>
+		<pubDate>Sat, 04 Oct 2025 15:02:57 -0500</pubDate>
+		<lastBuildDate>Sat, 04 Oct 2025 15:02:57 -0500</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
-		<atom:link href="https://colinthebeardie.club/rss.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://blog.kevin-afryl.com/rss.xml" rel="self" type="application/rss+xml" />
 		<image>
-			<title>ColinTheBeardie.club | blog</title>
+			<title>Kevin Afryl\&apos;s blog | blog</title>
 			<url>https://github.com/ickylizardcolin.png</url>
-			<link>https://colinthebeardie.club/</link>
+			<link>https://blog.kevin-afryl.com/</link>
 			<description>blog</description>
 		</image><item>
 			<title>Piracy</title>
@@ -34,9 +34,9 @@
 </div>
 				]]>
 			</description>
-			<link>https://colinthebeardie.club/2025-04-13-piracy/</link>
+			<link>https://blog.kevin-afryl.com/2025-04-13-piracy/</link>
 			<category>posts</category>
-		    <category>anime</category><category>media</category><category>tv</category><guid isPermaLink="true">https://colinthebeardie.club/2025-04-13-piracy/</guid>
+		    <category>anime</category><category>media</category><category>tv</category><guid isPermaLink="true">https://blog.kevin-afryl.com/2025-04-13-piracy/</guid>
       <pubDate>Sun, 13 Apr 2025 00:00:00 -0500</pubDate>
 		</item><item>
 			<title>Practical Web-based Tools</title>
@@ -49,9 +49,9 @@
 </div>
 				]]>
 			</description>
-			<link>https://colinthebeardie.club/2025-03-27-practical-web-based-tools/</link>
+			<link>https://blog.kevin-afryl.com/2025-03-27-practical-web-based-tools/</link>
 			<category>posts</category>
-		    <category>school</category><guid isPermaLink="true">https://colinthebeardie.club/2025-03-27-practical-web-based-tools/</guid>
+		    <category>school</category><guid isPermaLink="true">https://blog.kevin-afryl.com/2025-03-27-practical-web-based-tools/</guid>
       <pubDate>Thu, 27 Mar 2025 00:00:00 -0500</pubDate>
 		</item><item>
 			<title>Pwning library cards</title>
@@ -83,9 +83,9 @@
 </div>
 				]]>
 			</description>
-			<link>https://colinthebeardie.club/2025-03-24-pwning-library-cards/</link>
+			<link>https://blog.kevin-afryl.com/2025-03-24-pwning-library-cards/</link>
 			<category>posts</category>
-		    <category>hacking</category><guid isPermaLink="true">https://colinthebeardie.club/2025-03-24-pwning-library-cards/</guid>
+		    <category>hacking</category><guid isPermaLink="true">https://blog.kevin-afryl.com/2025-03-24-pwning-library-cards/</guid>
       <pubDate>Mon, 24 Mar 2025 00:00:00 -0500</pubDate>
 		</item><item>
 			<title>Best Media</title>
@@ -127,9 +127,9 @@
 </div>
 				]]>
 			</description>
-			<link>https://colinthebeardie.club/2025-03-24-best-media/</link>
+			<link>https://blog.kevin-afryl.com/2025-03-24-best-media/</link>
 			<category>posts</category>
-		    <category>anime</category><category>media</category><category>tv</category><guid isPermaLink="true">https://colinthebeardie.club/2025-03-24-best-media/</guid>
+		    <category>anime</category><category>media</category><category>tv</category><guid isPermaLink="true">https://blog.kevin-afryl.com/2025-03-24-best-media/</guid>
       <pubDate>Mon, 24 Mar 2025 00:00:00 -0500</pubDate>
 		</item></channel>
 </rss>
