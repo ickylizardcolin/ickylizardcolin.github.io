@@ -78,6 +78,8 @@ navbar:
     url   : /categories
   - title : Archive
     url   : /archive
+  - title : Return to main site
+    url   : https://i-am.kevin-afryl.com/
 #Social links to be placed on your site footer
 footer:
   links:
